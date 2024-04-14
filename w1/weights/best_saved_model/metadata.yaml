@@ -1,0 +1,18 @@
+description: Ultralytics best model trained on data_config.yaml
+author: Ultralytics
+date: '2024-04-14T19:32:51.968587'
+version: 8.1.43
+license: AGPL-3.0 License (https://ultralytics.com/license)
+docs: https://docs.ultralytics.com
+stride: 32
+task: detect
+batch: 1
+imgsz:
+- 640
+- 640
+names:
+  0: broke
+  1: circle
+  2: lose
+  3: uncovered
+  4: good
